@@ -1,0 +1,17 @@
+README
+by Brian Salmon
+
+It took about 5 or so hours to complete the assignment. It became much easier once I started analyzing all of you examples and basing my code off of them.
+
+Instructions:
+
+Change the rotation with arrow keys
+
+Increase sigma with a
+Decrease sigma with z
+
+Increase beta with s
+Decrease beta with x
+
+Increase rho with d
+Decrease rho with c

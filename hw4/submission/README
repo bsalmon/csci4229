@@ -1,0 +1,26 @@
+README
+
+HW4
+by Brian Salmon
+
+It took about 4 hours
+
+Instructions:
+
+Change the rotation with arrow keys
+
+'Esc' will close the window
+
+'a' to toggle axis
+
+'0' to reset view angle
+
+‘m’ to toggle between orthogonal and perspective
+
+‘f’ to change to first person
+
+‘w/s’ to move forward/backward in first person
+
+‘a/d’ to rotate camera in first person
+
+Page up and down to zoom in and out
